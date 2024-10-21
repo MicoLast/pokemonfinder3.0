@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+    background-color: #add8e6;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px 0;
+}
+
+img {
+    margin-top: 20px;
+    max-width: 200px;
+}
+
+.description {
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+    text-align: center;
+}
+
+pre {
+    background: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    overflow: auto;
+}
